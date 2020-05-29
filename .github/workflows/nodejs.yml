@@ -23,7 +23,7 @@ jobs:
     
     strategy:
       matrix:
-        os: [ubuntu-lastest, windows-2016]
+        os: [ubuntu-lastest]
         node-version: [10.x]
  
     steps:
